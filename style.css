@@ -188,6 +188,9 @@ div .textbox input {
     margin-left: 2px;
     font-size: 18px;
 }
+th {
+    background-color: #4977d1;
+}
 
 
 
